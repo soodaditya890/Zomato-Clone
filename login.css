@@ -168,3 +168,15 @@ footer{
     margin-bottom: 20px;
     list-style-type: none;
 }
+
+
+@media (max-width : 678px) {
+    .login__body{
+        width: 90%;
+    }
+    
+    
+    .login__box{
+        width: 100%;
+    }
+}
