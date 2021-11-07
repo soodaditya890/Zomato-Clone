@@ -34,7 +34,7 @@ header{
 }
 
 .navbar__logo{
-    width: 80%;
+    width: 100%;
 }
 
 .button__primary{
@@ -47,9 +47,10 @@ header{
     
     color: #fff;
     border: none;
-    padding: 10px;
-    border-radius: 30px;
+    padding: 12px 22px;
+    border-radius: 6px;
     margin-right: 20px;
+    
    
 }
 
